@@ -22,13 +22,13 @@ a:link{
 
 /*a:old*/
 /*a:clicked*/
-a:seen{
-/*a:visited{*/
+/*a:seen{*/
+a:visited{
     color: #ffffff;
 }
 
 .bodyimg{
-    position: absolute;
+    position: relative;
 }
 .bodyimg p{
     color:#f7f2f2;
